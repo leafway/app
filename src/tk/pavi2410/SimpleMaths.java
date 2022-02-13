@@ -24,6 +24,6 @@ public class SimpleMaths extends AndroidNonvisibleComponent implements Component
 
     @SimpleFunction(description = "Simple multiply of two numbers")
     public int Subtract(int a, int b) {
-        return a * b;
+        return a / b;
     }
 }
